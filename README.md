@@ -1,9 +1,13 @@
-# CrackZ Tool by Shawon
+# CRACKZ Tool by Shawon
 
 Lets Run👇
 
-rm -rf CrackZ
-git clone https://github.com/SHAWON-AHAMED/CrackZ
-cd CrackZ
+rm -rf CRACKZ
+
+git clone https://github.com/SHAWON-AHAMED/CRACKZ
+
+cd CRACKZ
+
 ls
-python3 CrackZ.py
+
+python3 CRACKZ.py
